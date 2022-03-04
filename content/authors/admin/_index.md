@@ -15,7 +15,7 @@ social:
     link: https://twitter.com/RounakMeyur
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=90SoTUMAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/rounak-meyur
@@ -23,19 +23,21 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/rounak-meyur-36277898/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: UVA Biocomplexity Institute
+    url: https://biocomplexity.virginia.edu/
+  - name: University of Virginia
+    url: https://www.virginia.edu/
 education:
   courses:
     - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      institution: University of Virginia
+      year: ""
+    - course: MS in Electrical Engineering (Power Systems)
+      institution: Virginia Tech
+      year: 2019
+    - course: BTech in Electrical and Electronics Engineering
+      institution: National Institute of Technology, Trichy
+      year: 2011
 email: ""
 superuser: true
 highlight_name: true
