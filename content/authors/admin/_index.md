@@ -29,7 +29,7 @@ organizations:
     url: https://www.virginia.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: PhD in Electrical Engineering
       institution: University of Virginia
       year: ""
     - course: MS in Electrical Engineering (Power Systems)
@@ -37,8 +37,8 @@ education:
       year: 2019
     - course: BTech in Electrical and Electronics Engineering
       institution: National Institute of Technology, Trichy
-      year: 2011
-email: ""
+      year: 2012
+email: rm5nz@virginia.edu
 superuser: true
 highlight_name: true
 ---
