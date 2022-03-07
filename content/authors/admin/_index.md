@@ -46,4 +46,4 @@ I am a final year PhD student at the ECE Department of University of Virginia (U
 
 My academic background is in Electrical Engineering with primary focus in Power Systems. My primary expertise lies in modeling of power system networks and analyzing impact of various events on the power grid. I have significant experience in using different convex optimization solvers.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/resume_2022.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/uploads/resume_2022.pdf" "newtab" >}}resumé{{< /staticref >}}.
