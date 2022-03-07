@@ -22,20 +22,18 @@ abstract: "Residential consumers have become active participants in the power
 slides: ""
 url_pdf: ""
 publication_types:
-  - "1"
+  - "3"
 authors:
   - admin
   - Swapna Thorve
 author_notes:
   - Equal contribution
   - Equal contribution
-publication: In *Wowchemy Conference*
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+publication: ""
+summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: In *ICW*
+publication_short: ""
 url_source: ""
 url_video: ""
 title: A Reliability-aware Distributed Framework to Schedule Residential
