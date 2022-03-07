@@ -19,7 +19,7 @@ abstract: "Residential consumers have become active participants in the power
   preferences, thus providing a solution for the existing grid to keep up with
   increased adoption rates without significant investments in increasing grid
   capacity."
-slides: example
+slides: ""
 url_pdf: ""
 publication_types:
   - "1"
@@ -43,8 +43,7 @@ title: A Reliability-aware Distributed Framework to Schedule Residential
 doi: ""
 featured: true
 tags: []
-projects:
-  - example
+projects: []
 image:
   caption: ""
   focal_point: ""
