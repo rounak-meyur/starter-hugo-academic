@@ -44,6 +44,6 @@ highlight_name: true
 ---
 I am a final year PhD student at the ECE Department of University of Virginia (UVA), Charlottesville. I am currently working as a research assistant at the NSSAC lab in the Biocomplexity Institute of UVA under the supervision of Dr. Madhav Marathe. 
 
-My academic background is in Electrical Engineering with primary focus in Power Systems. My primary expertise lies in modeling of power system networks and analyzing impact of various events on the power grid. I have significant experience in using different convex optimization solvers.
+My academic background is in Electrical Engineering with primary focus in Power Systems. My primary expertise lies in modeling of power system networks and analyzing impact of various events on the power grid. I have significant experience in using different convex optimization solvers. My research interest include bridging the gap between micro and macro level analysis of power grid.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/uploads/resume_2022.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/uploads/Resume_2022.pdf" "newtab" >}}resumé{{< /staticref >}}.
