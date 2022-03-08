@@ -15,7 +15,7 @@ links:
   - icon: github
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: https://github.com/rounak-meyur/revs-admm
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
